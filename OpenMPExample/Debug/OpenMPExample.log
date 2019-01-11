@@ -1,0 +1,3 @@
+﻿  source.c
+D:\Documents\Visual Studio 2019\Projects\OpenMPExample\OpenMPExample\source.c(8): warning C4550: expression evaluates to a function which is missing an argument list
+  OpenMPExample.vcxproj -> D:\Documents\Visual Studio 2019\Projects\OpenMPExample\Debug\OpenMPExample.exe
